@@ -13,6 +13,8 @@
     "name": "Alexander T.",
     "email": "alexander.tarasyuk@outlook.com"
   },
+  "main": "dist/bundle.js",
+  "types": "dist/types/index.d.ts",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "7.1.2",
