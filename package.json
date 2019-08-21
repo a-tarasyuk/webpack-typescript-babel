@@ -17,16 +17,16 @@
   "types": "dist/types/index.d.ts",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "7.5.4",
-    "@babel/plugin-proposal-class-properties": "7.5.0",
-    "@babel/plugin-proposal-object-rest-spread": "7.5.4",
-    "@babel/preset-env": "7.5.4",
+    "@babel/core": "7.5.5",
+    "@babel/plugin-proposal-class-properties": "7.5.5",
+    "@babel/plugin-proposal-object-rest-spread": "7.5.5",
+    "@babel/preset-env": "7.5.5",
     "@babel/preset-typescript": "7.3.3",
     "babel-loader": "8.0.6",
-    "fork-ts-checker-webpack-plugin": "1.4.3",
+    "fork-ts-checker-webpack-plugin": "1.5.0",
     "typescript": "3.5.3",
-    "webpack": "4.36.1",
-    "webpack-cli": "3.3.6"
+    "webpack": "4.39.2",
+    "webpack-cli": "3.3.7"
   },
   "resolutions": {
     "terser": "3.14.1"
